@@ -31,3 +31,8 @@
 *.vrb
 *.xdy
 *.tdo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
